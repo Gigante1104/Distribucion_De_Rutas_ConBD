@@ -1,0 +1,100 @@
+D:\Diplomado _Net\7 Febrero\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.dll
+D:\Diplomado _Net\7 Febrero\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.pdb
+D:\Diplomado _Net\7 Febrero\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.xml
+D:\Diplomado _Net\7 Febrero\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.AssemblyReference.cache
+D:\Diplomado _Net\7 Febrero\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+D:\Diplomado _Net\7 Febrero\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+D:\Diplomado _Net\7 Febrero\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+D:\Diplomado _Net\7 Febrero\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.dll
+D:\Diplomado _Net\7 Febrero\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.xml
+D:\Diplomado _Net\7 Febrero\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Sala3 - 1\Documents\7 Febrero\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Sala3 - 1\Documents\7 Febrero\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Sala3 - 1\Documents\7 Febrero\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.xml
+C:\Users\Sala3 - 1\Documents\7 Febrero\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.AssemblyReference.cache
+C:\Users\Sala3 - 1\Documents\7 Febrero\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\Sala3 - 1\Documents\7 Febrero\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\Sala3 - 1\Documents\7 Febrero\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Sala3 - 1\Documents\7 Febrero\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Sala3 - 1\Documents\7 Febrero\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.xml
+C:\Users\Sala3 - 1\Documents\7 Febrero\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.pdb
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.dll
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.pdb
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.xml
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.AssemblyReference.cache
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.dll
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.xml
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.pdb
+E:\Escritorio\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.dll
+E:\Escritorio\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.pdb
+E:\Escritorio\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.xml
+E:\Escritorio\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.AssemblyReference.cache
+E:\Escritorio\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+E:\Escritorio\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+E:\Escritorio\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+E:\Escritorio\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.dll
+E:\Escritorio\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.xml
+E:\Escritorio\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Usuario\Documents\Projects V\Diplomado\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Usuario\Documents\Projects V\Diplomado\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Usuario\Documents\Projects V\Diplomado\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.xml
+C:\Users\Usuario\Documents\Projects V\Diplomado\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Projects V\Diplomado\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\Usuario\Documents\Projects V\Diplomado\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Projects V\Diplomado\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projects V\Diplomado\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Usuario\Documents\Projects V\Diplomado\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.xml
+C:\Users\Usuario\Documents\Projects V\Diplomado\Proyecto\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.pdb
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto Adelantado\Proyecto 18Feb\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.dll
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto Adelantado\Proyecto 18Feb\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.pdb
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto Adelantado\Proyecto 18Feb\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.xml
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto Adelantado\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.AssemblyReference.cache
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto Adelantado\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto Adelantado\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto Adelantado\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto Adelantado\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.dll
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto Adelantado\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.xml
+E:\Usuario\Documentos\Universidad\Diplomado _Net All Exercises\Proyecto Adelantado\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Usuario\Documents\Projects V\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Usuario\Documents\Projects V\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Usuario\Documents\Projects V\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.xml
+C:\Users\Usuario\Documents\Projects V\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Projects V\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\Usuario\Documents\Projects V\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Projects V\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projects V\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Usuario\Documents\Projects V\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.xml
+C:\Users\Usuario\Documents\Projects V\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.pdb
+E:\Escritorio\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.dll
+E:\Escritorio\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.pdb
+E:\Escritorio\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\bin\Debug\AccesoDatos.xml
+E:\Escritorio\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.AssemblyReference.cache
+E:\Escritorio\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+E:\Escritorio\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+E:\Escritorio\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+E:\Escritorio\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.dll
+E:\Escritorio\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.xml
+E:\Escritorio\ProyectoAdelantoGiant\Proyecto 18Feb\AppTresCapas\AccesoDatos\obj\Debug\AccesoDatos.pdb
+E:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\bin\Debug\AccesoDatos.dll
+E:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\bin\Debug\AccesoDatos.pdb
+E:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\bin\Debug\AccesoDatos.xml
+E:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\obj\Debug\AccesoDatos.vbproj.AssemblyReference.cache
+E:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+E:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+E:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+E:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\obj\Debug\AccesoDatos.dll
+E:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\obj\Debug\AccesoDatos.xml
+E:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\obj\Debug\AccesoDatos.pdb
+O:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\bin\Debug\AccesoDatos.dll
+O:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\bin\Debug\AccesoDatos.pdb
+O:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\bin\Debug\AccesoDatos.xml
+O:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\obj\Debug\AccesoDatos.vbproj.AssemblyReference.cache
+O:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+O:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+O:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+O:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\obj\Debug\AccesoDatos.dll
+O:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\obj\Debug\AccesoDatos.xml
+O:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\AccesoDatos\obj\Debug\AccesoDatos.pdb
