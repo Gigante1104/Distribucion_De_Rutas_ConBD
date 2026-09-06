@@ -8,6 +8,30 @@
 Sistema de gestión logística y distribución de rutas de transporte empresarial desarrollado en **Visual Basic .NET** utilizando **Windows Forms** y arquitectura en 3 capas. Permite la administración integral de personal, rutas, conductores, asignación de turnos (entrada/salida) y exportación de reportes formateados a Excel.
 
 ---
+### 🚀 Instalación y Ejecución
+
+#### **Opción 1: Para Usuarios (Ejecutable listo)**
+1. Ve a la sección de **[Releases / Lanzamientos](https://github.com/Gigante1104/Distribucion_De_Rutas_ConBD/releases)** del repositorio.
+2. Descarga la versión ejecutable **`v1.0.0`** (`.zip`).
+3. Extrae los archivos en cualquier carpeta de tu equipo.
+4. Ejecuta el archivo **`ProyectoPQP.exe`**.
+
+#### **Opción 2: Para Desarrolladores (Código Fuente)**
+1. Clona el repositorio:
+   ```bash
+   git clone [https://github.com/Gigante1104/Distribucion_De_Rutas_ConBD.git](https://github.com/Gigante1104/Distribucion_De_Rutas_ConBD.git)
+   ```
+2. Abre la solución Proyecto PQP.sln en Visual Studio 2019 / 2022.
+
+3. Asegúrate de tener instalado el motor de base de datos Microsoft Access Database Engine (Microsoft.ACE.OLEDB.12.0).
+
+4. Compila y ejecuta el proyecto.
+
+---
+### 📝 Requisitos del Sistema
+* **Sistema Operativo:** Windows 10 / Windows 11.
+* **Controlador OLEDB:** Microsoft.ACE.OLEDB.12.0 `(incluido habitualmente con Microsoft Office).`
+---
 
 ## 🖥️ Menú Principal
 
@@ -94,32 +118,7 @@ Proyecto PQP/
 * **UI:** Windows Forms (WinForms)
 * **Base de Datos:** Microsoft Access (`.accdb`) mediante proveedor `Microsoft.ACE.OLEDB.12.0`
 * **Librerías externas:** `EPPlus` / `EPPlus.Core` (para la generación y formato de archivos Excel `.xlsx`)
-
 ---
 
-### 🚀 Instalación y Ejecución
-
-#### **Opción 1: Para Usuarios (Ejecutable listo)**
-1. Ve a la sección de **[Releases / Lanzamientos](https://github.com/Gigante1104/Distribucion_De_Rutas_ConBD/releases)** del repositorio.
-2. Descarga la versión ejecutable **`v1.0.0`** (`.zip`).
-3. Extrae los archivos en cualquier carpeta de tu equipo.
-4. Ejecuta el archivo **`ProyectoPQP.exe`**.
-
-#### **Opción 2: Para Desarrolladores (Código Fuente)**
-1. Clona el repositorio:
-   ```bash
-   git clone [https://github.com/Gigante1104/Distribucion_De_Rutas_ConBD.git](https://github.com/Gigante1104/Distribucion_De_Rutas_ConBD.git)
-   ```
-2. Abre la solución Proyecto PQP.sln en Visual Studio 2019 / 2022.
-
-3. Asegúrate de tener instalado el motor de base de datos Microsoft Access Database Engine (Microsoft.ACE.OLEDB.12.0).
-
-4. Compila y ejecuta el proyecto.
-
----
-### 📝 Requisitos del Sistema
-* **Sistema Operativo:** Windows 10 / Windows 11.
-* **Controlador OLEDB:** Microsoft.ACE.OLEDB.12.0 `(incluido habitualmente con Microsoft Office).`
----
 ### 📄 Autor
 * **Desarrollado por Gigante1104 - 2026.**
