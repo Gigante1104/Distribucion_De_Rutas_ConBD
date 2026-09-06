@@ -1,4 +1,4 @@
-# 🚌 Distribución de Rutas PQP (Windows Forms / VB.NET)
+# 🚌 Distribución de Rutas (Windows Forms / VB.NET)
 
 [![Language: VB.NET](https://img.shields.io/badge/Language-Visual%20Basic%20.NET-blueviolet.svg)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 [![Framework: .NET](https://img.shields.io/badge/Framework-.NET%20Framework-blue.svg)](https://dotnet.microsoft.com/)
