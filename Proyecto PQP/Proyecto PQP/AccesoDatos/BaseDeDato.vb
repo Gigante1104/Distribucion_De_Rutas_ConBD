@@ -1,4 +1,5 @@
 ﻿Imports System.Data.OleDb
+Imports System.Net.Mime.MediaTypeNames
 Public Class BaseDeDato
 
     Public Property BdCodeError As Integer
@@ -11,7 +12,11 @@ Public Class BaseDeDato
     Sub New()
         BdCodeError = 0
         BdMsgError = ""
-        cadConex = "Provider='Microsoft.ACE.OLEDB.12.0'; Data Source= '..\..\..\..\..\BdProyect\bd Proyecto.accdb'"
+        ' AppDomain.CurrentDomain.BaseDirectory obtiene la ruta del .exe sin importar la capa en la que estés
+        Dim rutaBase As String = AppDomain.CurrentDomain.BaseDirectory
+        Dim rutaBD As String = System.IO.Path.Combine(rutaBase, "BdProyect", "bd Proyecto.accdb")
+
+        cadConex = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" & rutaBD
     End Sub
 
     Public Sub Conectar()

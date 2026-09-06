@@ -414,3 +414,4 @@ O:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\P
 O:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\Presentacion\obj\Debug\Distribución De Rutas PQP.xml
 O:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\Presentacion\obj\Debug\Distribución De Rutas PQP.pdb
 O:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\Presentacion\obj\Debug\Presenta.3CCD44BA.Up2Date
+O:\Usuario\Escritorio\Documentos\Trabajo de mi padre\Proyecto PQP AlphaVersion\Proyecto PQP\Proyecto PQP\Presentacion\obj\Debug\Distribución De Rutas PQP.exe.config

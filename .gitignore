@@ -1,0 +1,8 @@
+# Carpetas temporales y cache de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Carpetas de compilacion
+[Bb]in/
+[Oo]bj/
