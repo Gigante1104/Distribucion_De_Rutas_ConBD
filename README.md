@@ -121,4 +121,4 @@ Proyecto PQP/
 ---
 
 ### 📄 Autor
-* **Desarrollado por Gigante1104 - 2026.**
+*  **Desarrollado por Gigante1104 - 2023.** Basado en un proyecto grupal del diplomado en .NET Framework y Visual Basic, adaptado y ampliado por mí. Publicado en GitHub en 2026.
